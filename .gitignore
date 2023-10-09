@@ -4,3 +4,5 @@ src_original
 outs
 *.zip
 *.rar
+*.csv
+trained_models
