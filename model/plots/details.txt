@@ -2,5 +2,6 @@
 6_class - LSTM for 6 classeses
 exp1 - More simplfied version of original lstm  remove 1 bi-directional layer and two dense layers
 exp1_step=2 - Impelemnted steps sizes for frames and set it to 2
-exp1_step=3 - Impelemnted steps sizes for frames and set it to 2
-exp1_step=4 - Impelemnted steps sizes for frames and set it to 2
+exp1_step=3 - Impelemnted steps sizes for frames and set it to 3
+exp1_step=4 - Impelemnted steps sizes for frames and set it to 4
+exp4 - 3 Bidirectional layers and 4 Dense layers
